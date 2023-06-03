@@ -12,7 +12,7 @@ const App = () => {
     <Router>
       <div className="app">
         <header>
-          <h1>My App</h1>
+          <h1>World Animal</h1>
           <nav>
             <ul>
               <li>
